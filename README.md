@@ -43,6 +43,7 @@ Adicione quantos user agents desejar.
    ./fetch_with_auth.sh
    ```
 4. **Insira seu nome de usuário e senha quando solicitado.**
+
 Observações
 
     O script ignora URLs que começam com /startpage/, contêm PHPSESSID, ou TIWARSID.
